@@ -1,0 +1,7 @@
+com/hank/custom/PDFInputFormat.class
+com/hank/custom/PDFWritable.class
+com/hank/ttp/PDFMapper.class
+com/hank/custom/PDFOutputFormat$PDFRecordWriter.class
+com/hank/custom/PDFInputFormat$PDFRecordReader.class
+com/hank/ttp/Main.class
+com/hank/custom/PDFOutputFormat.class
